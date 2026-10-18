@@ -1,0 +1,36 @@
+# Local health records (never upload personal data)
+steps.txt
+medication.txt
+wellness.txt
+
+# Independent dropdown demonstration
+/Source Code/test.py
+
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Local editor settings, build output, and temporary files
+.vscode/
+.idea/
+build/
+dist/
+tmp/
+*.tmp
+*.bak
+*.log
+
+# Assignment documents and archives
+*.pdf
+*.xlsx
+*.docx
+*.zip
+
+# Credentials
+.env
+.env.*
+*.pem
+*.key
